@@ -79,4 +79,4 @@ Al seleccionar una opción, sigue las instrucciones en pantalla para ver los res
 
 ##
 
-### Link a video de explicacion de youtube: 
+### Link a video de explicacion de youtube
