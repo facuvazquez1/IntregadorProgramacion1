@@ -77,6 +77,6 @@ Al seleccionar una opción, sigue las instrucciones en pantalla para ver los res
 * La búsqueda binaria requiere lista ordenada: O(log n), mucho más rápido que la búsqueda lineal O(n).
 * En aplicaciones reales, Python utiliza Timsort y estructuras de datos como diccionarios para optimizar ordenamientos y búsquedas.
 
-## Vídeo explicativo en YouTube: Enlace a la explicación del proyecto
+## Vídeo explicativo en YouTube
 
 * Link a Video de Youtube:
